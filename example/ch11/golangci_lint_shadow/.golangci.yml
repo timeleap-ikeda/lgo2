@@ -1,0 +1,12 @@
+version: "2"
+linters:
+  enable:
+    - govet
+    - predeclared
+
+linters-settings:
+  govet:
+    settings:
+      shadow:
+        strict: true
+    enable-all: true

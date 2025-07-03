@@ -1,0 +1,3 @@
+訳書の例題と原著の例題の対応関係
+ex0905.go       custom_error/main.go
+ex0905b.go       return_custom_error/main.go

@@ -1,0 +1,4 @@
+github.com/learning-go-book-2e/simpletax/v2 v2.0.0 h1:EUFWy1BBA2omgkmJaWxwEFnLF2CL54zCA5Q1fV2veLw=
+github.com/learning-go-book-2e/simpletax/v2 v2.0.0/go.mod h1:yGLh6ngHzJdppiH2ijwioG9F/IVnAfbA7XfWpIYR67g=
+github.com/shopspring/decimal v1.4.0 h1:bxl37RwXBklmTi0C79JfXCEBD1cqqHt0bbgBAGFp81k=
+github.com/shopspring/decimal v1.4.0/go.mod h1:gawqmDU56v4yIKSwfBSFip1HdCCXN8/+DMd9qYNcwME=
