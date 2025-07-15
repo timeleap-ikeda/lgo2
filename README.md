@@ -5,9 +5,6 @@
 [オライリー・ジャパン](https://www.oreilly.co.jp/)発行の『[初めてのGo言語 第2版](https://www.marlin-arms.com/support/learning-go2/)』（2025年8月初旬発売予定）の例題および練習問題の解答例のリポジトリです。
 
 
-★★ ほぼ完成しましたが、作成中につき変更される可能性があります。あしからずご了承ください。★★
-
-
  - 例題等のダウンロードは、ページ右上にある緑色のボタン［Code］をクリックして、［Download ZIP］をクリックするのが簡単です（もちろん、「git clone」していただいても結構です）
  - 本について詳しくは[サポートページ](https://www.marlin-arms.com/support/learning-go2/)をご覧ください。
  - 書籍には「技術的な質問は oreilly.com まで（英語で）ご連絡ください」とありますが、訳者あてお送りいただいても、できる限りお答えいたしますので[サポートページ](https://www.marlin-arms.com/support/learning-go2/)からどうぞ。
